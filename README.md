@@ -2,4 +2,4 @@
 
 npm i express
 
-npm intall prisma
+npm install prisma --save-dev
