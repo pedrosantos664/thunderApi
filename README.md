@@ -1,5 +1,5 @@
 # thunderApi
 
-npm install express
+npm i express
 
 npm intall prisma
